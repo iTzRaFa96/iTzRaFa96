@@ -1,5 +1,5 @@
 
-## Oii eu sou a Rafael Santos, esse aqui é meu repositorio de tecnologia!
+## Oii eu sou Rafael Santos, esse aqui é meu repositório de tecnologia!
 <div align="center">
  <a href="https://github.com/iTzRaFa96", >
  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=iTzRaFa96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
