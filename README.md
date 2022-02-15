@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**iTzRaFa96/iTzRaFa96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oii eu sou a Rafael Santos, esse aqui é meu repositorio de tecnologia!
+<div align="center">
+ <a href="https://github.com/iTzRaFa96", >
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=iTzRaFa96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzRaFa96&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Js" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-HTML" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-Python" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+    
+  <a href="https://www.instagram.com/rafael_santos_rx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-vin%C3%ADcius-5854b3177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
